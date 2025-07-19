@@ -6,3 +6,8 @@
     font-size: 100%;
     box-sizing: border-box;
 }
+
+/* Remove all styles from lists */
+ol, ul {
+    list-style: none;
+}
