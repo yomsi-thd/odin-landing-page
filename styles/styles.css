@@ -38,4 +38,5 @@ nav .logo{
     max-width: 75px;
     max-height: 75px;
     border-radius: 15%;
+    border: 2px solid whitesmoke;
 }
