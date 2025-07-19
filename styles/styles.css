@@ -52,3 +52,10 @@ nav .logo{
     border-radius: 15%;
     border: 2px solid whitesmoke;
 }
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
