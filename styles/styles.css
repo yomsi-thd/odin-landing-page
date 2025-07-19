@@ -15,6 +15,7 @@
 body{
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 
@@ -58,4 +59,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #e5e7eb;
+    background-color: #1F2937;
+    padding: 10px;
 }
