@@ -11,3 +11,8 @@
 ol, ul {
     list-style: none;
 }
+
+/* Remove all underline from links */
+a{
+    text-decoration: none;
+}
