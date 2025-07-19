@@ -11,6 +11,13 @@
     font-family: "Roboto", sans-serif;
 }
 
+/* Default the entire body as flexbox */
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+
 /* Remove all styles from lists */
 ol, ul {
     list-style: none;
