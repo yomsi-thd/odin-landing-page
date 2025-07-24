@@ -61,7 +61,7 @@ nav .logo{
     padding: 50px 350px;
     background-color: #1F2937;
     color: #e5e7eb;
-    gap: 10px;
+    gap: 20px;
 }
 
 .header-content .site-description{
@@ -78,6 +78,11 @@ nav .logo{
 
 .header-content .site-description p{
     margin-bottom: 10px;
+}
+
+.header-content .site-description p a{
+    color: pink;
+    font-weight: bolder;
 }
 
 button{
