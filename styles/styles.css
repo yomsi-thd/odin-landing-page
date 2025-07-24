@@ -134,7 +134,7 @@ button{
 
 .main-content .information img{
     align-self: center;
-    max-width: 200px;
+    max-width: 300px;
     border: 3px solid #3882f6;
     border-radius: 5%;
 }
@@ -177,6 +177,12 @@ button{
     background-color: #3882f6;
     padding: 40px;
     border-radius: 10px;
+}
+
+.main-content .call-for-action .donation-box h3{
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: solid;
 }
 
 .main-content .call-for-action .donation-box button{
