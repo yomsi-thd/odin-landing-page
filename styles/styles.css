@@ -90,7 +90,7 @@ button{
     background-color: #3882f6;
     color: #e5e7eb;
     font-size: 18px;
-    padding: 5px;
+    padding: 10px;
 }
 
 
@@ -136,7 +136,7 @@ button{
     align-self: center;
     max-width: 200px;
     border: 3px solid #3882f6;
-    border-radius: 10%;
+    border-radius: 5%;
 }
 
 .main-content .information p{
@@ -164,6 +164,24 @@ button{
     align-self: flex-end;
     font-weight: bold;
     font-style: normal;
+}
+
+.main-content .call-for-action{
+    margin: 50px 350px;
+}
+
+.main-content .call-for-action .donation-box{
+    display: flex;
+    justify-content: space-around;
+    color: #f9faf8;
+    background-color: #3882f6;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.main-content .call-for-action .donation-box button{
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
 }
 
 
