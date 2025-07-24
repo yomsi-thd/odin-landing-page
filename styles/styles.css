@@ -58,7 +58,7 @@ nav .logo{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 50px 350px;
+    padding: 50px 350px;
     gap: 10px;
 }
 
