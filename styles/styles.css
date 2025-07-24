@@ -73,11 +73,19 @@ nav .logo{
     color: #f9faf8;
     font-weight: 900;
     font-size: 48px;
+    margin-bottom: 10px;
+}
+
+.header-content .site-description p{
+    margin-bottom: 10px;
 }
 
 button{
+    border-radius: 10%;
     background-color: #3882f6;
     color: #e5e7eb;
+    font-size: 18px;
+    padding: 5px;
 }
 
 
