@@ -59,12 +59,27 @@ nav .logo{
     justify-content: center;
     align-items: center;
     padding: 50px 350px;
+    background-color: #1F2937;
+    color: #e5e7eb;
     gap: 10px;
 }
 
 .header-content .site-description{
     flex: 1;
 }
+
+
+.header-content .site-description h1{
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 48px;
+}
+
+button{
+    background-color: #3882f6;
+    color: #e5e7eb;
+}
+
 
 .header-content .banner{
     display: flex;
