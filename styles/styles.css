@@ -30,10 +30,10 @@ a{
 
 nav{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     background-color: #1F2937;
-    padding: 10px;
+    padding: 10px 350px;
 }
 
 nav ul{
