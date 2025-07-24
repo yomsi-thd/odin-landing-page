@@ -1,6 +1,7 @@
 # The 天 Landing Site
 
 ![ten banner](./images/bannergif.gif)
+
 Banner was made by matsusan
 
 Intially, this was an exercise from the Odin Project.
