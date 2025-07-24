@@ -15,7 +15,6 @@
 body{
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
 
@@ -54,6 +53,29 @@ nav .logo{
     border: 2px solid whitesmoke;
 }
 
+
+.header-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 350px;
+    gap: 10px;
+}
+
+.header-content .site-description{
+    flex: 1;
+}
+
+.header-content .banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.header-content .banner img{
+    flex: auto;
+}
 
 footer{
     display: flex;
