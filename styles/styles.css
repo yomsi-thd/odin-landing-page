@@ -146,7 +146,9 @@ button{
 .main-content .quote{
     display: flex;
     flex-direction: column;
-    padding: 20px 300px;
+    justify-content: space-between;
+    gap: 100px;
+    padding: 300px;
 }
 
 .main-content .quote .author{
