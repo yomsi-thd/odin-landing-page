@@ -105,6 +105,33 @@ button{
     flex: auto;
 }
 
+.main-content .information{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    gap: 30px;
+}
+
+.main-content .information .testamony{
+    display: flex;
+    flex: 1;
+    gap: 100px;
+}
+
+.main-content .information .learner{
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+    gap: 30px;
+}
+
+.main-content .information img{
+    align-self: center;
+    max-width: 200px;
+}
+
+
 footer{
     display: flex;
     justify-content: center;
