@@ -148,11 +148,22 @@ button{
     flex-direction: column;
     justify-content: space-between;
     gap: 100px;
-    padding: 300px;
+    padding: 100px 400px;
+    background-color: #e5e7eb;
+}
+
+.main-content .quote p{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    max-width: 1000px;
 }
 
 .main-content .quote .author{
     align-self: flex-end;
+    font-weight: bold;
+    font-style: normal;
 }
 
 
